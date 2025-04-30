@@ -1,5 +1,9 @@
 # 🐍 Python_Tricks_for_Social
 
+<p align="center">
+<img src="https://github.com/Dineshrestha/Python_Tricks_for_Social/blob/main/Python_Tricks_for_Social.png" width="600" />
+</p>
+
 Welcome to Python_Tricks_for_Social – a growing collection of practical, ready-to-use Python scripts tailored for automation, GIS workflows, and everyday time-saving solutions.
 
 This public repository is where I share Python scripts that I've built for simplifying repetitive tasks, enhancing productivity, and automating various parts of geospatial and data processing pipelines. Whether you're managing maps, handling PDFs, organizing folders, or prepping files for delivery — there's something here for you.
