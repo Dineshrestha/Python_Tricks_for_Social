@@ -1,4 +1,4 @@
-🐍 # Python_Tricks_for_Social
+# 🐍 Python_Tricks_for_Social
 
 Welcome to Python_Tricks_for_Social – a growing collection of practical, ready-to-use Python scripts tailored for automation, GIS workflows, and everyday time-saving solutions.
 
