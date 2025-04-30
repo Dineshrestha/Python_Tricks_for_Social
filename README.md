@@ -21,13 +21,10 @@ Handy scripts for data cleaning, batch processing, and working smarter with your
 Many of these scripts started as one-off tools to solve a problem at work — small things that saved big chunks of time. I'm sharing them here so others can benefit too, especially folks working in GIS, environmental consulting, or any field dealing with repetitive digital tasks.
 
 ## 📌 How to Use
-Clone or download this repository.
-
-Open any script or notebook you're interested in.
-
-Update file paths and parameters to match your own workflows.
-
-Run — and let Python do the boring stuff.
+- Clone or download this repository.
+- Open any script or notebook you're interested in.
+- Update file paths and parameters to match your own workflows.
+- Run — and let Python do the boring stuff.
 
 ## 🔧 Dependencies
 Most scripts rely only on standard Python libraries (os, shutil, zipfile, etc.) and occasionally GIS-specific tools like arcpy or open-source packages like geopandas.
@@ -37,7 +34,7 @@ Each script or notebook will clearly list required libraries at the top.
 ## 📬 Got Suggestions?
 Feel free to open an issue or submit a pull request if you’ve got a trick to share or an idea to improve something here.
 
-🙌 Stay Connected
-Follow me on LinkedIn or check out other projects I’ve built around geospatial analysis and automation.
+## 🙌 Stay Connected
+Follow me on [LinkedIn](https://www.linkedin.com/in/dinesh-shrestha-393a23109/) or check out other projects I’ve built around geospatial analysis and automation.
 
-Let Python do the repetitive work — so you can focus on what actually matters.
+#### *Let Python do the repetitive work — so you can focus on what actually matters.*
